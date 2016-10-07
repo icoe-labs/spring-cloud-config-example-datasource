@@ -1,0 +1,14 @@
+spring:
+    application:
+      name: spring-cloud-config-client
+    profiles:
+      active: jdbc
+    config:
+      name: spring-cloud-config-client
+
+configuration:  
+  projectName: spring-cloud-config-client
+server:
+  port: 8000
+message:
+  greeting: Hello from the configuration!
