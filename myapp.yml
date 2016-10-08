@@ -2,7 +2,7 @@ spring:
     application:
       name: spring-cloud-config-client
     profiles:
-      active: jdbc
+      active: default
     config:
       name: spring-cloud-config-client
 
