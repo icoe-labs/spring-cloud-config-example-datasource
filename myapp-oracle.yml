@@ -1,4 +1,4 @@
 server:
   port: 8002
 message:
-  greeting: Hello from the oracle configuration on the test branch!
+  greeting: Hello from the oracle configuration on the test branch with a small change!
