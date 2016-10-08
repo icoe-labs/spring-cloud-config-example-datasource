@@ -1,0 +1,6 @@
+configuration:  
+  projectName: spring-cloud-config-client
+server:
+  port: 8002
+message:
+  greeting: Hello from the oracle configuration on the "test" branch!
