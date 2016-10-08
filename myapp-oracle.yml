@@ -1,13 +1,7 @@
 spring:
-    application:
-      name: spring-cloud-config-client
     profiles:
       active: oracle
-    config:
-      name: spring-cloud-config-client
 
-configuration:  
-  projectName: spring-cloud-config-client
 server:
   port: 8001
 message:
